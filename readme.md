@@ -1,1 +1,1 @@
-JavaScript learning
+JAVASCRIPT LEARNING
